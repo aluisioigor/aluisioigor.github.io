@@ -214,8 +214,11 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/hero-bg1.jpg") top center ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  /* opacity: 0.5; */
+
 }
 /* ****** */
 .intro-overlay {
