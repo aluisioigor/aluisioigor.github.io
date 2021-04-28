@@ -663,8 +663,8 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 54px;
-  height: 54px;
+  width: 64px;
+  height: 64px;
   background: #149ddd;
   border-radius: 50%;
   transition: 0.5s;
